@@ -14,7 +14,7 @@ Above is a link to the PyBer Challenge code.
 
 Above is a screenshot of the PyBer summary data. We used multiple formulas to compile data for each city type based on total rides, total drivers, total fares, average fare per ride, and average fare per driver and compiled them into a single dataframe.
 
-![PyBer Summary](Resources/pyber_summary.png)
+![PyBer Stacked Line](Resources/pyber_stacked_line.png)
 
 Above is a stacked line chart displaying the total fares per week for each city type between January 1st, 2019 and April 28th, 2019.
 
