@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to gather ride sharing data by city type for our client, Omar. We used Pandas and Matplotlib to create a graph that showed total weekly fares for each city type. We then analyzed the major differences is usage and revenue between each city type. Finally, we made recommendations based on our findings on how the disparity between each city type could be addressed.
+The purpose of this analysis was to gather ride sharing data by city type for our client, Omar. We used Pandas and Matplotlib to create a graph that showed total weekly fares for each city type. We then analyzed the major differences in usage and revenue between each city type. Finally, we made recommendations based on our findings on how the disparity between each city type could be addressed.
 
 ## Results
 
@@ -12,13 +12,13 @@ Above is a link to the PyBer Challenge code.
 
 ![PyBer Summary](Resources/pyber_summary.png)
 
-Above is a screenshot of the PyBer summary data. We used multiple formulas to compile data for each city type based on total rides, total drivers, total fares, average fare per ride, and average fare per driver and compiled them into a single dataframe.
+Above is a screenshot of the PyBer summary data. We used multiple formulas to compile data for each city type based on total rides, total drivers, total fares, average fare per ride, and average fare per driver and combined them into a single dataframe.
 
 ![PyBer Stacked Line](Resources/pyber_stacked_line.png)
 
 Above is a stacked line chart displaying the total fares per week for each city type between January 1st, 2019 and April 28th, 2019.
 
-The first major difference between city types that is very apparant is the number of rides and drivers for each type. Urban has by far the most rides and drivers, followed by suburban, and finally rural has very few. This has a direct correlation with the total fares since the city type with the most rides will produce the higheset amount of revenue.
+The first major difference between city types that is very apparant is the number of rides and drivers for each type. Urban has by far the most rides and drivers, followed by suburban, and finally rural has very few. This has a direct correlation with the total fares since the city type with the most rides will produce the highest amount of revenue.
 
 We can also see that the further away you are away from the city, the more expensive the average fare per ride is. Rural is the most expensive, followed by suburban, with urban being the cheapest. This is most likely because people in rural areas have to spend more money to go longer distances to get to the city and urban areas. People in urban areas travel shorter distances since it is less likely the majority of their trips go outside the city. This also causes a positive correlation with average fare per driver. Drivers in rural areas will earn more per ride because they have to take riders longer distances.
 
