@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to gather ride sharing data by city type for our client, Omar. We used Pandas and Matplotlib to create a graph that showed total weekly fares for each city type.
+The purpose of this analysis was to gather ride sharing data by city type for our client, Omar. We used Pandas and Matplotlib to create a graph that showed total weekly fares for each city type. We then analyzed the major differences is usage and revenue between each city type. Finally, we made recommendations based on our findings on how the disparity between each city type could be addressed.
 
 ## Results
 
